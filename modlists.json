@@ -15,8 +15,7 @@
       "FROST Survival Simulator",
       "Survival",
       "Hardcore",
-      "Fallout 4",
-      "<any tags you want in the UI, each in its own string"
+      "Fallout 4"
     ],
     "nsfw": false,
     "image_contains_title": false,
