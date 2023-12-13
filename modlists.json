@@ -1,0 +1,43 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "FROST - Below Zero",
+    "description": "This is a modlist made by following Below Zero - A FROST Modding Guide - Recommended Setup. The author is not connected to FROST Development Team.",
+    "author": "August",
+    "maintainers": [
+      "github/St1ck2k"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "FROST",
+      "Below Zero",
+      "FROST - Below Zero",
+      "FROST Survival Simulator",
+      "Survival",
+      "Hardcore",
+      "Fallout 4",
+      "<any tags you want in the UI, each in its own string"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://staticdelivery.nexusmods.com/mods/1151/images/18898-0-1475212708.png",
+      "readme": "https://github.com/St1ck2k/FROST---Below-Zero-Fallout-4-Wabbajack-Modlist/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/FROST%20-%20Below%20Zero.wabbajack_b991933e-2cad-42db-b227-7dc0b809697b",
+      "machineURL": "St1ck2k/FROST---Below-Zero-Fallout-4-Wabbajack-Modlist",
+      "discordURL": "https://discord.com/invite/BaKsm7Fn4A"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash":"cY8UOVX+lyc=",
+      "Size":1411325,
+      "NumberOfArchives":75,
+      "SizeOfArchives":6336877748,
+      "NumberOfInstalledFiles":9112,
+      "SizeOfInstalledFiles":8231276306
+    },
+    "version": "1.0"
+  }
+]
