@@ -39,6 +39,6 @@ Read Initial Setup section of [Below Zero](https://redawt.github.io/f4-frost-gui
 
 [The Midnight Ride Guide](https://themidnightride.moddinglinked.com/) and its authors - it inspired Below Zero guide, and therefore this modlist. A lot of sections from Below Zero guide are identical to the Midnight Ride Guide. If you are planning to make a non-FROST Fallout 4 setup, you should use The Midnight Ride guide or its [Wabbajack list](https://themidnightride.moddinglinked.com/wabbajack.html).
 
-[Optimization Guides Collection 2](https://www.nexusmods.com/fallout4/mods/50005) - the modlists uses some of its INI settings.
+[Optimization Guides Collection 2](https://www.nexusmods.com/fallout4/mods/50005) - the modlist uses some of its INI settings.
 
-[Step Fallout 4 - FO4 - Guide](https://www.nexusmods.com/fallout4/mods/74193) - the modlists uses some of its INI settings.
+[Step Fallout 4 - FO4 - Guide](https://www.nexusmods.com/fallout4/mods/74193) - the modlist uses some of its INI settings.
