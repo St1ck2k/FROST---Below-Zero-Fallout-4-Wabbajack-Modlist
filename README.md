@@ -11,12 +11,12 @@ The goal of this modlist is to provide a simple way to install a basic FROST mod
 
 ## Requirements
 - An English copy of Fallout 4 from Steam
-- - Read Initial Setup section of [Below Zero]([https://redawt.github.io/f4-frost-guide](https://redawt.github.io/f4-frost-guide/initialsetup.html)) guide to learn how to properly install Fallout 4.
+- - Read Initial Setup section of [Below Zero][https://redawt.github.io/f4-frost-guide](https://redawt.github.io/f4-frost-guide/initialsetup.html) guide to learn how to properly install Fallout 4.
 - - Only the English version of the game is supported for maximum compatibility.
 - All DLCs for Fallout 4 (except the High Resolution Texture Pack DLC)
 - At least 37.5 GB of free drive space
 - Windows 7 or higher (64bit)
-- [Microsoft VC++ 2015-2022]([url](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)) (x86 and x64 versions)
+- [Microsoft VC++ 2015-2022][url](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) (x86 and x64 versions)
 - - Just download the files and install them
 - - Do not download the ARM64 version or Visual Studio itself, they aren’t needed.
 - The latest GPU drivers (Either NVIDIA or AMD)
@@ -30,7 +30,7 @@ Installing the game on an SSD can drastically improve load times and decrease st
 - **GPU:** NVIDIA 900 series card or an AMD RX 400 series card
 
 ## Installation
-Read Initial Setup section of [Below Zero]([https://redawt.github.io/f4-frost-guide](https://redawt.github.io/f4-frost-guide/initialsetup.html)) guide to learn how to properly install Fallout 4.
+Read Initial Setup section of [Below Zero][https://redawt.github.io/f4-frost-guide](https://redawt.github.io/f4-frost-guide/initialsetup.html) guide to learn how to properly install Fallout 4.
 
 ## Credits
 [naugrim04]([url](https://www.nexusmods.com/fallout4/users/6324000)) - for creating FROST.
