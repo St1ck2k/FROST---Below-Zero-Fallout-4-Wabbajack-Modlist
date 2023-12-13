@@ -1,5 +1,5 @@
 # FROST - Below Zero Fallout 4 Wabbajack Modlist
-This is a github repository for a modlist made by following [Below Zero - A FROST Modding Guide](https://redawt.github.io/f4-frost-guide) -  Recommended Setup.
+This is a github repository for a modlist made by following [Below Zero - A FROST Modding Guide](https://redawt.github.io/f4-frost-guide) -  Recommended Setup. The author is not connected to FROST Development Team.
 
 ## Description
 The goal of this modlist is to provide a simple way to install a basic FROST modlist in just a few clicks. It was made by following the [Below Zero](https://redawt.github.io/f4-frost-guide) guide, from INI settings to applying all needed FROST patches. It doesn't contain anything else besides the mods mentioned in Recommended Setup section, with few exceptions:
@@ -11,14 +11,14 @@ The goal of this modlist is to provide a simple way to install a basic FROST mod
 
 ## Requirements
 - An English copy of Fallout 4 from Steam
-- - [Read Initial Setup section of Below Zero guide](https://redawt.github.io/f4-frost-guide/initialsetup.html) to learn how to properly install Fallout 4.
-- - Only the English version of the game is supported for maximum compatibility.
+  - [Read Initial Setup section of Below Zero guide](https://redawt.github.io/f4-frost-guide/initialsetup.html) to learn how to properly install Fallout 4.
+  - Only the English version of the game is supported for maximum compatibility.
 - All DLCs for Fallout 4 (except the High Resolution Texture Pack DLC)
 - At least 37.5 GB of free drive space
 - Windows 7 or higher (64bit)
 - [Microsoft VC++ 2015-2022](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) (x86 and x64 versions)
-- - Just download the files and install them
-- - Do not download the ARM64 version or Visual Studio itself, they aren’t needed.
+  - Just download the files and install them
+  - Do not download the ARM64 version or Visual Studio itself, they aren’t needed.
 - The latest GPU drivers (Either NVIDIA or AMD)
 - A Nexus Mods account
 
