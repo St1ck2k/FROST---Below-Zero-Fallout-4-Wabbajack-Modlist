@@ -1,9 +1,9 @@
 # FROST - Below Zero Fallout 4 Wabbajack Modlist
 This is a github repository for a modlist made by following [Below Zero - A FROST Modding Guide](https://redawt.github.io/f4-frost-guide) -  Recommended Setup. 
 
-It also contains a small guide on how to install the modlist, some clarifications about the small changes, requirements, recommended specs and credits.
+It also contains a small guide on how to install the modlist, some clarifications about the small changes, requirements, recommended specs, and credits.
 
-The author is not connected to the FROST Development Team.
+The author is not connected to the FROST Development Team, but has the permission to make this modlist.
 
 ## Description
 The goal of this modlist is to provide a simple way to install a basic FROST modlist in just a few clicks. It was made by following the [Below Zero](https://redawt.github.io/f4-frost-guide) guide (Recommended Setup), from INI settings to applying all needed FROST patches. It doesn't contain anything else besides the mods mentioned in Recommended Setup section, with few exceptions:
