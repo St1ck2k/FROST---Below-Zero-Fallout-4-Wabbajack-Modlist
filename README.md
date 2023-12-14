@@ -34,7 +34,7 @@ Installing the game on an SSD can drastically improve load times and decrease st
 - **GPU:** NVIDIA 900 series card or an AMD RX 400 series card
 
 ## Installation
-1. Read [Initial Setup section of Below Zero](https://redawt.github.io/f4-frost-guide/initialsetup.html) guide to learn how to properly install Fallout 4. No need to do anything else from the guide.
+1. Follow [Initial Setup section of Below Zero](https://redawt.github.io/f4-frost-guide/initialsetup.html) guide to properly install Fallout 4. No need to do anything else from the guide.
 2. Download [Wabbajack](https://www.wabbajack.org/) and install.
 3. Pick this Modlist from the Gallery (Browse Modlist button), you can search for it by its name in the Search field. Tick "Show Unnoficial Lists" for that.
 4. Follow the installation. If you have questions about the installation process or encounter errors, ask about them at [Wabbajack Discord](https://discord.com/invite/wabbajack).
