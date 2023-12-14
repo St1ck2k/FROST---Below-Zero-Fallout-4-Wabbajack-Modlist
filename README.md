@@ -7,7 +7,7 @@ The goal of this modlist is to provide a simple way to install a basic FROST mod
 - It installs all FallUI options and therefore includes a generated Complex Sorter patch for FIS - The NEW FallUI Item Sorter.
 - It doesn't include Pack Attack NPC (PANPC) mod, because the author doesn't allow its distrubtion through modlists or NexusMods. You can find instructions on how to get it in Below Zero guide itself, in the Imporant Mods section.
 - It uses Ultra Interior Lighting and Ultra Exterior Lighting as Lighting Mods options.
-- It uses Root Builder to manage files that need to placed in the root folder of the game instead of Data folder, such as F4SE.
+- It uses Root Builder to manage files that need to be placed in the Root folder of the game instead of the Data folder, such as F4SE.
 
 ## Requirements
 - An English copy of Fallout 4 from Steam
