@@ -40,8 +40,9 @@ Installing the game on an SSD can drastically improve load times and decrease st
 4. Press the download button and wait for it to download. 
 6. Set Modlist Installation Location to be somewhere like C:\Games\FROST. DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Fallout's Steam folder.
 7. Set Resource Download Location to be wherever you prefer.
-8. After the installation is complete, go to Modlist Installation Location and run ModOrganizer.exe. Click Run button on the top right part of the MO2 window. You should always launch FROST from MO2.
-9. Done. You don't need to do anything else, the game should launch properly.
+8. Press the play button to begin.
+9. After the installation is complete, go to Modlist Installation Location and run ModOrganizer.exe. Click Run button on the top right part of the MO2 window. You should always launch FROST from MO2.
+10. Done. You don't need to do anything else, the game should launch properly.
 
 If you have questions about the installation process or encounter errors, ask about them at [Wabbajack Discord](https://discord.com/invite/wabbajack).
 
