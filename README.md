@@ -37,9 +37,14 @@ Installing the game on an SSD can drastically improve load times and decrease st
 1. Follow [Initial Setup section of Below Zero](https://redawt.github.io/f4-frost-guide/initialsetup.html) guide to properly install Fallout 4. No need to do anything else from the guide.
 2. Download [Wabbajack](https://www.wabbajack.org/) and install.
 3. Pick this Modlist from the Gallery (Browse Modlist button), you can search for it by its name in the Search field. Tick "Show Unnoficial Lists" for that.
-4. Follow the installation. If you have questions about the installation process or encounter errors, ask about them at [Wabbajack Discord](https://discord.com/invite/wabbajack).
-5. After the installation is complete, go to installation folder and run ModOrganizer.exe. Click Run button on the top right part of the MO2 window. You should always launch FROST from MO2.
-6. Done. You don't need to do anything else, the game should launch properly.
+4. Press the download button and wait for it to download. 
+6. Set Modlist Installation Location to be somewhere like C:\Games\FROST. DO NOT place it in Program Files, User folders (such as Desktop, Documents, Downloads, etc.), or in your Fallout's Steam folder.
+7. Set Resource Download Location to be wherever you prefer.
+8. After the installation is complete, go to Modlist Installation Location and run ModOrganizer.exe. Click Run button on the top right part of the MO2 window. You should always launch FROST from MO2.
+9. Done. You don't need to do anything else, the game should launch properly.
+
+If you have questions about the installation process or encounter errors, ask about them at [Wabbajack Discord](https://discord.com/invite/wabbajack).
+
 
 ## Modification 
 If you want to modify the list, follow [Load Order section](https://redawt.github.io/f4-frost-guide/normallo.html) from Below Zero guide. Otherwise you may encounter nasty bugs that will ruin your game.
