@@ -6,7 +6,7 @@ It also contains a small guide on how to install the modlist, some clarification
 The author is not connected to the FROST Development Team, but has the permission to make this modlist.
 
 ## Description
-FROST is a total conversion mod for Fallout 4. For best experience, FROST requires a number of different mods to supplement it. [Below Zero](https://redawt.github.io/f4-frost-guide) a list of such mods and a guide on how to properly install them. Wabbajack is a tool used to install mod lists with pre-defined load order and other settings, effectively doing the work of the guides such as Below Zero for you.
+FROST is a total conversion mod for Fallout 4. For best experience, FROST requires a number of different mods to supplement it. [Below Zero](https://redawt.github.io/f4-frost-guide) is a list of such mods and a guide on how to properly install them. Wabbajack is a tool used to install mod lists with pre-defined load order and other settings, effectively doing the work of the guides such as Below Zero for you.
 
 The goal of this Wabbajack modlist is to provide a simple way to install a basic FROST modlist in just a few clicks. It was made by following the [Below Zero](https://redawt.github.io/f4-frost-guide) guide (Recommended Setup), from INI settings to applying all needed FROST patches. It doesn't contain anything else besides the mods mentioned in Recommended Setup section, with few exceptions:
 - It includes some additional INI tweaks from BethINI, The Midnight Ride, Optimization Guides Collection, and FO4 Step Modifications.
