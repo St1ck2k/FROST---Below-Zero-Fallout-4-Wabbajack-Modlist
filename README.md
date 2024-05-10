@@ -50,8 +50,9 @@ Installing the game on an SSD can drastically improve load times and decrease st
 If you want to modify the list, follow [Load Order section](https://redawt.github.io/f4-frost-guide/normallo.html) from Below Zero guide. Otherwise you may encounter nasty bugs that will ruin your game.
 
 ## Support and questions
-Join [FROST Official Discord](https://discord.com/invite/BaKsm7Fn4A) if you have question about the game or just want to discuss it with others.
-If you have questions about the installation process or encounter errors related to installation, you can DM @august to ask them. If you have questions about the game process and errors related to it, use support-and-bugs channel.
+Join [FROST Official Discord](https://discord.com/invite/BaKsm7Fn4A) if you have question about the game or just want to discuss it with others. Read rules-and-info channel.
+
+If you have questions about this Wabbajack installation process or encounter errors related to the installation, you can DM @august. If you have questions about the game, use questions-and-answers channel. If you have encountered errors in the game, use support-and-bugs channel.
 
 ## Credits
 [naugrim04](https://www.nexusmods.com/fallout4/users/6324000) - for creating FROST.
