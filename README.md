@@ -6,7 +6,9 @@ It also contains a small guide on how to install the modlist, some clarification
 The author is not connected to the FROST Development Team, but has the permission to make this modlist.
 
 ## Description
-The goal of this modlist is to provide a simple way to install a basic FROST modlist in just a few clicks. It was made by following the [Below Zero](https://redawt.github.io/f4-frost-guide) guide (Recommended Setup), from INI settings to applying all needed FROST patches. It doesn't contain anything else besides the mods mentioned in Recommended Setup section, with few exceptions:
+FROST is a total conversion mod for Fallout 4. For best experience, FROST requires a number of different mods to supplement it. [Below Zero](https://redawt.github.io/f4-frost-guide) a list of such mods and a guide on how to properly install them. Wabbajack is a tool used to install mod lists with pre-defined load order and other settings, effectively doing the work of the guides such as Below Zero for you.
+
+The goal of this Wabbajack modlist is to provide a simple way to install a basic FROST modlist in just a few clicks. It was made by following the [Below Zero](https://redawt.github.io/f4-frost-guide) guide (Recommended Setup), from INI settings to applying all needed FROST patches. It doesn't contain anything else besides the mods mentioned in Recommended Setup section, with few exceptions:
 - It includes some additional INI tweaks from BethINI, The Midnight Ride, Optimization Guides Collection, and FO4 Step Modifications.
 - It installs all FallUI options and therefore includes a generated Complex Sorter patch for FIS - The NEW FallUI Item Sorter.
 - It doesn't include Pack Attack NPC (PANPC) mod, because the author doesn't allow its distrubtion through modlists or NexusMods. You can find instructions on how to get it in Below Zero guide itself, in the Imporant Mods section.
@@ -44,11 +46,12 @@ Installing the game on an SSD can drastically improve load times and decrease st
 9. After the installation is complete, go to Modlist Installation Location and run ModOrganizer.exe. Click Run button on the top right part of the MO2 window. You should always launch FROST from MO2.
 10. Done. You don't need to do anything else, the game should launch properly.
 
-If you have questions about the installation process or encounter errors, ask about them at [Wabbajack Discord](https://discord.com/invite/wabbajack).
-
-
 ## Modification 
 If you want to modify the list, follow [Load Order section](https://redawt.github.io/f4-frost-guide/normallo.html) from Below Zero guide. Otherwise you may encounter nasty bugs that will ruin your game.
+
+## Support and questions
+Join [FROST Official Discord](https://discord.com/invite/BaKsm7Fn4A) if you have question about the game or just want to discuss it with others.
+If you have questions about the installation process or encounter errors related to installation, you can DM @august to ask them. If you have questions about the game process and errors related to it, use support-and-bugs channel.
 
 ## Credits
 [naugrim04](https://www.nexusmods.com/fallout4/users/6324000) - for creating FROST.
