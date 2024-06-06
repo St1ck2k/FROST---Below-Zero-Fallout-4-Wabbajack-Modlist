@@ -1,4 +1,8 @@
+# IMPORTANT!
+After the latest major Fallout 4 update, if you have the last version of the game, you will not be able to download the list. It is currently not maintained. Your only option right now is to follow [Below Zero](https://redawt.github.io/f4-frost-guide) guide and install everything manually.
+
 # FROST - Below Zero Fallout 4 Wabbajack Modlist
+
 This is a github repository for a modlist made by following [Below Zero - A FROST Modding Guide](https://redawt.github.io/f4-frost-guide) -  Recommended Setup. 
 
 It also contains a small guide on how to install the modlist, some clarifications about the small changes, requirements, recommended specs, and credits.
@@ -50,9 +54,7 @@ Installing the game on an SSD can drastically improve load times and decrease st
 If you want to modify the list, follow [Load Order section](https://redawt.github.io/f4-frost-guide/normallo.html) from Below Zero guide. Otherwise you may encounter nasty bugs that will ruin your game.
 
 ## Support and questions
-Join [FROST Official Discord](https://discord.com/invite/BaKsm7Fn4A) if you have question about the game or just want to discuss it with others. Read rules-and-info channel.
-
-If you have questions about this Wabbajack installation process or encounter errors related to the installation, you can DM @august. If you have questions about the game, use questions-and-answers channel. If you have encountered errors in the game, use support-and-bugs channel.
+As the list is not maintained, no support is provided.
 
 ## Credits
 [naugrim04](https://www.nexusmods.com/fallout4/users/6324000) - for creating FROST.
