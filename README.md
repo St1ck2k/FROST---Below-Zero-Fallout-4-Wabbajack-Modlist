@@ -1,5 +1,5 @@
 # IMPORTANT!
-After the latest major Fallout 4 update, if you have the last version of the game, you will not be able to download the list. It is currently not maintained. Your only option right now is to follow [Below Zero](https://redawt.github.io/f4-frost-guide) guide and install everything manually.
+After the latest major Fallout 4 update, if you have the last version of the game, you will not be able to download the list. It is currently not maintained. Your only option right now is to follow [Below Zero](https://redawt.github.io/f4-frost-guide) guide and install everything manually. Information below is outdated.
 
 # FROST - Below Zero Fallout 4 Wabbajack Modlist
 
